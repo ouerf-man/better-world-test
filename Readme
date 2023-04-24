@@ -1,10 +1,21 @@
-** Frontend
+# Frontend
 
-Go to my-app folder and install deps using npm install and then run using npm start
+Go to my-app folder and install deps then run the application.
 
+```
+npm install
+npm start
+```
 
-** backend 
-
+# backend 
+```
 docker-compose build 
-
 docker-compose up
+```
+
+When the backend application is ran, a seed code will be executed to load the database with initial data from the public api.
+
+
+## Why I worked for more than 2 hours 
+
+External and out of hands factors cause this delay but I tried my best to make a functional code.
