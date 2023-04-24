@@ -1,0 +1,10 @@
+** Frontend
+
+Go to my-app folder and install deps using npm install and then run using npm start
+
+
+** backend 
+
+docker-compose build 
+
+docker-compose up
